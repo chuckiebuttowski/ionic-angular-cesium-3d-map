@@ -3,6 +3,8 @@
 
 An example project to demonstrate how you can use CesiumJS in your Ionic & Angular app.
 
+## Environment Variables documentation
+https://pazel.dev/how-to-keep-your-secrets-from-your-source-code-in-an-angular-project
 
 ## Demo
 
